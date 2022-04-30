@@ -1,3 +1,3 @@
 # images
 
-hosting images here for my personal website
+images are for my personal wesbite, they are all my own
